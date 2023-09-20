@@ -8,8 +8,6 @@ let arr = [
     [13],
 ];
 
-// let flattened = [].concat(...arr);
-
 // console.log(arr.flat(2))
 
 // custom flat
